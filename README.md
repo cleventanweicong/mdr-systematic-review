@@ -6,7 +6,13 @@
 
 **Using the data**
 
-Raw data from the data extraction can be found under the 'data' folder (MDR_XDR_PDR_Data Extraction.csv). The 'gramposlist.csv' contains a list of Gram-positive bacteria which is used to categorise some of the organisms for analysis. Codes used for the data analysis and creation of figures can be found in the 'codes' folder. 
+In 'codes' folder, there are two Jupyter Notebook files:
+data_extraction_termination.ipynb - This contains codes used to generate the summary statistics of key variables to monitor any variations per 100 included articles (Supplementary material 2).
+final_analysis.ipynb - This contains codes used to analyse the study characteristics of included articles (Figure 2) and forest plot (Figure 3). 
+
+In 'data' folder, there are two CSV files:
+MDR_XDR_PDR_Data Extraction.csv - This contains raw data from the data extraction which was used for the analysis.
+gramposlist.csv - This contains a list of Gram-positive bacteria which is used to categorise some of the organisms for analysis. 
 
 **Credits**
 
